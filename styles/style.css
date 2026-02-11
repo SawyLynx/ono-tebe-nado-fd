@@ -17,11 +17,15 @@
   list-style: none;
 }
 
+.header__links-list-item_no-bullit {
+  list-style: none;
+}
+
 .header__link-item {
   list-style: circle;
 }
 
-.header__links-list-item_no-bullit {
+.header__link-active {
   text-decoration: none;
 }
 
